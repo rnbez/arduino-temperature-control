@@ -69,12 +69,3 @@ void fan_on() {
     delayMicroseconds(500); 
   }
 }
-
-void fan_off() {
-
-}
-
-
-
-
-
